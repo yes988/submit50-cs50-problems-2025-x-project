@@ -27,7 +27,6 @@ Simple CalorieTrack is a mobile app built for Android that helps users monitor t
 
 - Java (Android SDK)
 - SQLite for local storage
-- MPAndroidChart for graphs
 - Android Studio
 
 ## Design Notes
