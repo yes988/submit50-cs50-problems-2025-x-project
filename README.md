@@ -2,7 +2,7 @@
 
 # Simple CalorieTrack
 
-#### Video Demo: [https://studio.youtube.com/video/RESWpJY6EK0]
+#### Video Demo: [[https://studio.youtube.com/video/RESWpJY6EK0](https://youtu.be/75-FM5opqEg)]
 
 #### Description:
 
